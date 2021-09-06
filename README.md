@@ -26,7 +26,7 @@ Vous devrez **exposer** une **API Web** ainsi qu'un **client web** pour affich
 
 *   Gestionnaire de version : **GIT** obligatoirement
 *   Librairies externes autorisées
-*   Framework symfony pour le back, React de préference pour le front mais pas imposé, pour l'api Graphql mais rest accepté
+*   Framework symfony pour le back, React de préference pour le front mais pas imposé, pour l'api Graphql mais rest accepté. Des boilerplate peuvent etre utilisé pour lancer les projets et éviter de perdre trop de temps sur la configuration
 *   Pour le front, le style ne sera pas pris en compte mais le design sera un plus
   
 
